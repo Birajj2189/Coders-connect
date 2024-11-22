@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --radius: 0.5rem
+  }
+}
+  
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+}

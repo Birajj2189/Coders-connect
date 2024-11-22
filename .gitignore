@@ -1,0 +1,40 @@
+/coder-platform-frontend/node_modules
+/coder-platform-backend/node_modules
+/coder-platform-backend/.env
+/coder-platform-frontend/.env.local
+
+# Frontend files
+
+# dependencies
+/coder-platform-frontend/.pnp
+/coder-platform-frontend/.pnp.js
+/coder-platform-frontend/.yarn/install-state.gz
+
+# testing
+/coder-platform-frontend/coverage
+
+# next.js
+/coder-platform-frontend/.next/
+/coder-platform-frontend/out/
+
+# production
+/coder-platform-frontend/build
+
+# misc
+/coder-platform-frontend/.DS_Store
+/coder-platform-frontend/*.pem
+
+# debug
+/coder-platform-frontend/npm-debug.log*
+/coder-platform-frontend/yarn-debug.log*
+/coder-platform-frontend/yarn-error.log*
+
+# local env files
+/coder-platform-frontend/.env*.local
+
+# vercel
+/coder-platform-frontend/.vercel
+
+# typescript
+/coder-platform-frontend/*.tsbuildinfo
+/coder-platform-frontend/next-env.d.ts
