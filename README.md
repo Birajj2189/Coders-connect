@@ -12,7 +12,7 @@ By integrating **authentication via multiple platforms, a follow system, code-sh
 
 ### **🔗 Project Preview**  
 Due to some hosting limitations, the project is not currently deployed. However, you can check out a full preview of **Coders Connect** in action on YouTube:  
-👉 **Watch the Demo Here:** [Your YouTube Link]  
+👉 **Watch the Demo Here:**[ [Your YouTube Link]  ](https://youtu.be/-RBBliGHcEk?si=oKLgpJVPZc1pfj0u)
 
 
 ## **Future Scope & Vision**  
