@@ -10,6 +10,11 @@
 By integrating **authentication via multiple platforms, a follow system, code-sharing capabilities, and real-time notifications**, Coders Connect fosters a developer-friendly ecosystem where users can stay updated, engage with industry peers, and enhance their skills through meaningful interactions.  
 
 
+### **🔗 Project Preview**  
+Due to some hosting limitations, the project is not currently deployed. However, you can check out a full preview of **Coders Connect** in action on YouTube:  
+👉 **Watch the Demo Here:** [Your YouTube Link]  
+
+
 ## **Future Scope & Vision**  
 
 The vision for **Coders Connect** is to evolve into a **one-stop solution** for developers, combining social networking with practical tools for coding, collaboration, and career growth. Future enhancements may include:  
